@@ -7,12 +7,12 @@ public class ObjectClassArea {
     public static void main(String[] args) {
        Square s = new Square(5);
        // s.l = 5;
-       System.out.println("площадь квадрата со стороной " + s.l + " = " + area(s));
+       System.out.println("площадь квадрата со стороной " + s.l + " = " + s.area());
 
        Rectangle r =  new Rectangle(4,6);
        //r.a = 4;
        //r.b =6;
-        System.out.println("площадь прямоугольника  со сторонами " + r.a + " и " + r.b + " = " + area(r));
+        System.out.println("площадь прямоугольника  со сторонами " + r.a + " и " + r.b + " = " + r.area());
     }
     public static double area (Square s){
         return s.l*s.l;
