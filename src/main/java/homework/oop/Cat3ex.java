@@ -35,11 +35,11 @@ public class Cat3ex {
     public String getCatInfo(){
         String s;
         if (this.name == null) {
-            s = ("Бездомный кот цвета " + this.color);
+            s = ("Бездомный кот цвета: " + this.color);
         }else if (this.age !=0){
             s = ("домашний кот по имени: " + this.name);
         }else{
-            s = ("имя кота " + this.name);
+            s = ("имя кота: " + this.name);
         }
         return s;
 

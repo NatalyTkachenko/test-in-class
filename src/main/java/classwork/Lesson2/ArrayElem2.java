@@ -1,4 +1,4 @@
-package classwork.Lesson2;
+package classwork.lesson2;
 
 /**
  * Created by dn-na on 11/04/2017.
