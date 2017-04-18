@@ -1,4 +1,4 @@
-package homework;
+package homework.lesson2;
 
 /**
  Реализуй метод printCircleLength. Параметр метода — радиус окружности. Метод должен вывести на экран длину окружности, рассчитанной по формуле: L = 2 * Pi * radius.

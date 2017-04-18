@@ -2,13 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caf31e9d-021b-4b8d-856c-b44d70ae7e5d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/classwork/Lesson2/ArrayMethods.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/classwork/OOP/ProgTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/classwork/OOP/TestVarArg.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/classwork/oop_part2/Exceptions.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/classwork/OOP/ObjectClassArea.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/OOP/ObjectClassArea.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/classwork/OOP/Rectangle.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/OOP/Rectangle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/classwork/OOP/Square.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/OOP/Square.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/classwork/Lesson1/FirstProject.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/lesson1/FirstProject.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/classwork/Lesson1/IfElse.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/lesson1/IfElse.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/classwork/Lesson2/ArrayElem2.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/lesson2/ArrayElem2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/classwork/Lesson2/ArrayElements.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/lesson2/ArrayElements.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/classwork/Lesson2/ArrayMethods.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/lesson2/ArrayMethods.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/classwork/Lesson2/ArrrayLength.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/lesson2/ArrrayLength.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/classwork/Lesson2/BreakStatement.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/lesson2/BreakStatement.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/classwork/Lesson2/ContinueStatement.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/lesson2/ContinueStatement.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/classwork/Lesson2/LoopFor.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/lesson2/LoopFor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/classwork/Lesson2/LoopWhile.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/lesson2/LoopWhile.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/classwork/Lesson2/SwitchStatement.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/lesson2/SwitchStatement.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/classwork/OOP/ObjectClassArea.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/oop/ObjectClassArea.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/classwork/OOP/ProgTest.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/oop_part2/ProgTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/classwork/OOP/Rectangle.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/oop/Rectangle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/classwork/OOP/Square.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/oop/Square.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/classwork/OOP/TestVarArg.java" afterPath="$PROJECT_DIR$/src/main/java/classwork/oop_part2/TestVarArg.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/homework/Solution1.java" afterPath="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/homework/Solution10.java" afterPath="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution10.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/homework/Solution11.java" afterPath="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution11.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/homework/Solution12.java" afterPath="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution12.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/homework/Solution2.java" afterPath="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/homework/Solution3.java" afterPath="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/homework/Solution4.java" afterPath="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/homework/Solution5.java" afterPath="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution5.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/homework/Solution6.java" afterPath="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution6.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/homework/Solution7.java" afterPath="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution7.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/homework/Solution8.java" afterPath="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution8.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/homework/Solution9.java" afterPath="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution9.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,41 +45,38 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ObjectClassArea.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/classwork/OOP/ObjectClassArea.java">
+      <file leaf-file-name="Cat3ex.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/homework/oop/Cat3ex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" column="107" lean-forward="true" selection-start-line="14" selection-start-column="107" selection-end-line="14" selection-end-column="107" />
+            <state relative-caret-position="252">
+              <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
               <folding>
-                <element signature="e#512#513#0" expanded="true" />
-                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/classwork/OOP/Square.java">
+      <file leaf-file-name="Cat.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/homework/oop/Cat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            <state relative-caret-position="201">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding>
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/classwork/OOP/Rectangle.java">
+      <file leaf-file-name="CatProgramm.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/homework/oop/CatProgramm.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-              <folding>
-                <element signature="e#248#249#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-              </folding>
+              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,29 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/homework/ResultOfSumm20.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/SquaringNum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/PrintMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/SalaryIncreaseMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/MinNumReturn.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/EvenNumDetermin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/EvenNumDet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/CircleLength.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/Solution10.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/Solution12.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/Solution11.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/Solution8.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/Solution1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/Solution2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/Solution3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/Solution4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/Solution5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/Solution7.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/Solution9.java" />
-        <option value="$PROJECT_DIR$/src/main/java/homework/Solution6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/classwork/Loops.java" />
-        <option value="$PROJECT_DIR$/src/main/java/classwork/LoopFor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/classwork/SwitchStatement.java" />
         <option value="$PROJECT_DIR$/src/main/java/classwork/LoopWhile.java" />
         <option value="$PROJECT_DIR$/src/main/java/classwork/BreakStatement.java" />
         <option value="$PROJECT_DIR$/src/main/java/classwork/ContinueStatement.java" />
@@ -129,9 +126,32 @@
         <option value="$PROJECT_DIR$/src/main/java/classwork/Lesson2/ArrayMethods.java" />
         <option value="$PROJECT_DIR$/src/main/java/classwork/OOP/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/classwork/OOP/TestVarArg.java" />
-        <option value="$PROJECT_DIR$/src/main/java/classwork/OOP/ProgTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/classwork/OOP/Square.java" />
+        <option value="$PROJECT_DIR$/src/main/java/classwork/OOP/ProgTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/classwork/OOP/Exceptions.java" />
         <option value="$PROJECT_DIR$/src/main/java/classwork/OOP/ObjectClassArea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/classwork/oop/Exceptions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/classwork/oop_part2/Exceptions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/classwork/oop_part2/TestVarArg.java" />
+        <option value="$PROJECT_DIR$/src/main/java/classwork/oop_part2/ProgTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/classwork/oop/ObjectClassArea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/Solution4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution9.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution11.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution12.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/lesson2/Solution10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/oop/Cat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/oop/Cat3ex.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/oop/CatProgramm.java" />
       </list>
     </option>
   </component>
@@ -165,7 +185,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -232,6 +251,66 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Testprj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test-in-class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Testprj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test-in-class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classwork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -259,39 +338,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="OOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Testprj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test-in-class" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classwork" />
+              <option name="myItemId" value="oop" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -320,35 +374,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ObjectClassArea">
-    <configuration default="false" name="ArrayElem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="classwork.OOP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="classwork.ArrayElem2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="test-in-class" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.CatProgramm">
     <configuration default="false" name="ObjectClassArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="classwork.OOP.*" />
+          <option name="PATTERN" value="classwork.oop_part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="classwork.OOP.ObjectClassArea" />
+      <option name="MAIN_CLASS_NAME" value="classwork.oop.ObjectClassArea" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -361,14 +395,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ArrayElem2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="classwork.Lesson2.*" />
+          <option name="PATTERN" value="classwork.oop_part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="classwork.Lesson2.ArrayElem2" />
+      <option name="MAIN_CLASS_NAME" value="classwork.oop_part2.Exceptions" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -381,14 +415,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ArrayMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="classwork.Lesson2.*" />
+          <option name="PATTERN" value="homework.lesson2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="classwork.Lesson2.ArrayMethods" />
+      <option name="MAIN_CLASS_NAME" value="homework.lesson2.Solution2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -401,14 +435,34 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ProgTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Solution4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="classwork.OOP.*" />
+          <option name="PATTERN" value="homework.lesson2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="classwork.OOP.ProgTest" />
+      <option name="MAIN_CLASS_NAME" value="homework.lesson2.Solution4" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test-in-class" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CatProgramm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="homework.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="homework.oop.CatProgramm" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -809,19 +863,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ArrayElem2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ObjectClassArea" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ArrayElem2 (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ArrayMethods" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ProgTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ObjectClassArea" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Exceptions" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Solution2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Solution4" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CatProgramm" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ObjectClassArea" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ProgTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ArrayMethods" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ArrayElem2 (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ArrayElem2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CatProgramm" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Solution4" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Solution2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ObjectClassArea" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Exceptions" />
       </list>
     </recent_temporary>
   </component>
@@ -839,12 +893,13 @@
       <workItem from="1491848704780" duration="21277000" />
       <workItem from="1491926881439" duration="9676000" />
       <workItem from="1492092642627" duration="2957000" />
-      <workItem from="1492099816025" duration="4683000" />
+      <workItem from="1492099816025" duration="7052000" />
+      <workItem from="1492471634191" duration="14788000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45568000" />
+    <option name="totallyTimeSpent" value="62725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -860,7 +915,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23974763" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -898,29 +953,53 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/OOP/ObjectClassArea.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/oop/ObjectClassArea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/oop/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
           <folding>
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/OOP/Square.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/oop_part2/Exceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/oop/ObjectClassArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/oop/Square.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="false" />
+            <element signature="e#228#229#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/OOP/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/oop/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -947,14 +1026,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/Lesson1/IfElse.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/lesson1/IfElse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/Lesson1/FirstProject.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/lesson1/FirstProject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="108" lean-forward="false" selection-start-line="16" selection-start-column="108" selection-end-line="16" selection-end-column="108" />
@@ -963,80 +1042,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/homework/EvenNumDet.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/homework/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/homework/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="54" lean-forward="false" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/homework/Solution3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" column="57" lean-forward="false" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/homework/Solution4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="35" column="40" lean-forward="false" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/homework/Solution5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="16" column="2" lean-forward="false" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/homework/Solution6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/homework/Solution7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/homework/Solution8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/homework/Solution11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/homework/Solution12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1045,49 +1050,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/Lesson2/SwitchStatement.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/lesson2/SwitchStatement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/Lesson2/LoopWhile.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/lesson2/LoopWhile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/Lesson2/LoopFor.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/lesson2/LoopFor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/Lesson2/ContinueStatement.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/lesson2/ContinueStatement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/Lesson2/BreakStatement.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/lesson2/BreakStatement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/Lesson1/IfElse.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/lesson1/IfElse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/Lesson1/FirstProject.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/lesson1/FirstProject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -1095,81 +1100,169 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/Lesson2/ArrrayLength.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/lesson2/ArrrayLength.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/Lesson2/ArrayElements.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/lesson2/ArrayElements.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/Lesson2/ArrayElem2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/lesson2/ArrayElem2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/homework/Solution9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/homework/Solution10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/OOP/ProgTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/Lesson2/ArrayMethods.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/lesson2/ArrayMethods.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/OOP/TestVarArg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/OOP/Square.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/oop/Square.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="false" />
+            <element signature="e#228#229#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/OOP/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/oop_part2/ProgTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/oop_part2/TestVarArg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/oop_part2/Exceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/lesson2/Solution11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/lesson2/Solution12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/lesson2/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/lesson2/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/lesson2/Solution3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/lesson2/Solution4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/lesson2/Solution10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/lesson2/Solution5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/lesson2/Solution7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/lesson2/Solution8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/lesson2/Solution6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/lesson2/Solution9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/oop/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
           <folding>
             <element signature="e#248#249#0" expanded="true" />
             <element signature="e#284#285#0" expanded="true" />
@@ -1177,14 +1270,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/OOP/ObjectClassArea.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/oop/ObjectClassArea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="107" lean-forward="true" selection-start-line="14" selection-start-column="107" selection-end-line="14" selection-end-column="107" />
+        <state relative-caret-position="357">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/oop/Cat3ex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
           <folding>
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/oop/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/oop/CatProgramm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>

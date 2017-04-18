@@ -1,4 +1,4 @@
-package classwork.OOP;
+package classwork.oop_part2;
 
 /**
  * Created by dn-na on 13/04/2017.

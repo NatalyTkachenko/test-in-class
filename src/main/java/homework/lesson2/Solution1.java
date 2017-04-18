@@ -1,4 +1,4 @@
-package homework;
+package homework.lesson2;
 
 /**
  * Created by dn-na on 11/04/2017.

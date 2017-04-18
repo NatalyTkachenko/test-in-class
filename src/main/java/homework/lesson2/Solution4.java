@@ -1,4 +1,4 @@
-package homework;
+package homework.lesson2;
 
 /**
  Закомментировать часть кода, чтобы на экран вывелось сообщение «summa = 12»

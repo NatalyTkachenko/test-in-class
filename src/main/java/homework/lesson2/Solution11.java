@@ -1,4 +1,4 @@
-package homework;
+package homework.lesson2;
 
 /**
  Создать программу, выводящую на экран ближайшее к 10 из двух чисел,

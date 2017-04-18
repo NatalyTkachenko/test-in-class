@@ -1,4 +1,4 @@
-package homework;
+package homework.lesson2;
 
 import com.sun.org.apache.xpath.internal.SourceTree;
 

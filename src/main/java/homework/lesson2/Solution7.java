@@ -1,4 +1,4 @@
-package homework;
+package homework.lesson2;
 
 /**
  Реализовать метод public static void salary(int a).

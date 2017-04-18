@@ -1,4 +1,4 @@
-package homework;
+package homework.lesson2;
 
 /**
  * Написать функцию min которая принимает 2 параметра и возвращает меньший из них.
